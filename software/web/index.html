@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monitoramento Inteligente de Luminosidade</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<main class="container">
+    <header>
+        <h1>Monitoramento Inteligente de Luminosidade</h1>
+        <p>STM32 + C# + Node.js + Python KNN + Web</p>
+    </header>
+
+    <section class="cards">
+        <div class="card">
+            <h2>Valor Atual</h2>
+            <div class="valor" id="valorAtual">---</div>
+        </div>
+
+        <div class="card" id="cardClassificacao">
+            <h2>Classificação</h2>
+            <div class="classificacao" id="classificacao">---</div>
+        </div>
+
+        <div class="card">
+            <h2>Última Atualização</h2>
+            <div class="horario" id="horario">---</div>
+        </div>
+    </section>
+
+    <section class="cards">
+        <div class="card">
+            <h2>Média</h2>
+            <div class="valor menor" id="media">---</div>
+        </div>
+        <div class="card">
+            <h2>Máximo</h2>
+            <div class="valor menor" id="maximo">---</div>
+        </div>
+        <div class="card">
+            <h2>Mínimo</h2>
+            <div class="valor menor" id="minimo">---</div>
+        </div>
+        <div class="card">
+            <h2>Tendência</h2>
+            <div class="tendencia" id="tendencia">---</div>
+        </div>
+    </section>
+
+    <section class="card grafico-card">
+        <h2>Evolução das últimas medições</h2>
+        <canvas id="grafico" width="900" height="300"></canvas>
+    </section>
+
+    <section class="card historico-card">
+        <h2>Histórico das últimas leituras</h2>
+        <div class="tabela-wrapper">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Horário</th>
+                        <th>Valor</th>
+                        <th>Classificação</th>
+                        <th>Confiança</th>
+                    </tr>
+                </thead>
+                <tbody id="historico"></tbody>
+            </table>
+        </div>
+    </section>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

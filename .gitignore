@@ -1,0 +1,45 @@
+# Dependências do Node.js
+
+node_modules/
+npm-debug.log*
+
+# Arquivos temporários do Python
+
+**pycache**/
+*.py[cod]
+.venv/
+venv/
+
+# Compilação do C# / .NET
+
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+
+# Compilação do STM32CubeIDE
+
+**/Debug/
+**/Release/
+
+# Workspace local do STM32CubeIDE
+
+.metadata/
+
+# Histórico e arquivos de testes
+
+Sistema/data/medicoes.json
+final-test-output/
+
+# Logs e configurações locais
+
+*.log
+.env
+.env.*
+
+# Arquivos compactados e do sistema operacional
+
+*.zip
+.DS_Store
+Thumbs.db

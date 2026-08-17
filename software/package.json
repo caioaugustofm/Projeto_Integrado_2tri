@@ -1,0 +1,12 @@
+{
+  "name": "projeto-integrado-luminosidade",
+  "version": "1.0.0",
+  "description": "Monitoramento de luminosidade com STM32, C#, Node.js, Python KNN e dashboard Web",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
