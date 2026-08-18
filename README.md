@@ -1,6 +1,6 @@
 # Projeto Integrado - Monitoramento Inteligente de Luminosidade com KNN
 
-Sistema IoT desenvolvido para aquisição, classificação e visualização de medições de luminosidade. O projeto integra um STM32, uma aplicação em C#, uma API em Node.js, um classificador KNN em Python e um dashboard Web.
+Sistema IoT desenvolvido para aquisição, classificação e visualização de medições de luminosidade. O projeto integra STM32, uma aplicação em C#, uma API em Node.js, um classificador KNN em Python e um dashboard Web.
 
 ## Vídeo de apresentação
 
