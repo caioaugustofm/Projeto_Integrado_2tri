@@ -39,6 +39,8 @@ class Program
             {
                 try
                 {
+                    // Apaga valores antigos acumulados e pega uma leitura atual
+                    portaSerial.DiscardInBuffer();
                     string linha = portaSerial.ReadLine().Trim();
 
                     if (!int.TryParse(linha, out int valor))

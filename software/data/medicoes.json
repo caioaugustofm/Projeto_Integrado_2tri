@@ -18120,5 +18120,7051 @@
       "Muito_Iluminado": 0
     },
     "createdAt": "2026-08-17T13:09:06.534Z"
+  },
+  {
+    "id": 1787053507147,
+    "sample": [
+      1058
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0.3333333333333333,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:07.147Z"
+  },
+  {
+    "id": 1787053508953,
+    "sample": [
+      792
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:08.953Z"
+  },
+  {
+    "id": 1787053510656,
+    "sample": [
+      801
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:10.656Z"
+  },
+  {
+    "id": 1787053512399,
+    "sample": [
+      791
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:12.399Z"
+  },
+  {
+    "id": 1787053514262,
+    "sample": [
+      770
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:14.262Z"
+  },
+  {
+    "id": 1787053516084,
+    "sample": [
+      755
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:16.084Z"
+  },
+  {
+    "id": 1787053518052,
+    "sample": [
+      720
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:18.052Z"
+  },
+  {
+    "id": 1787053519747,
+    "sample": [
+      707
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:19.747Z"
+  },
+  {
+    "id": 1787053521394,
+    "sample": [
+      676
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:21.394Z"
+  },
+  {
+    "id": 1787053523065,
+    "sample": [
+      626
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:23.065Z"
+  },
+  {
+    "id": 1787053524760,
+    "sample": [
+      600
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:24.760Z"
+  },
+  {
+    "id": 1787053526473,
+    "sample": [
+      585
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:26.473Z"
+  },
+  {
+    "id": 1787053528164,
+    "sample": [
+      586
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:28.164Z"
+  },
+  {
+    "id": 1787053529778,
+    "sample": [
+      598
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:29.778Z"
+  },
+  {
+    "id": 1787053531417,
+    "sample": [
+      617
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:31.417Z"
+  },
+  {
+    "id": 1787053533131,
+    "sample": [
+      632
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:33.131Z"
+  },
+  {
+    "id": 1787053534900,
+    "sample": [
+      656
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:34.900Z"
+  },
+  {
+    "id": 1787053536597,
+    "sample": [
+      672
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:36.597Z"
+  },
+  {
+    "id": 1787053538420,
+    "sample": [
+      717
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:38.420Z"
+  },
+  {
+    "id": 1787053540153,
+    "sample": [
+      763
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:40.153Z"
+  },
+  {
+    "id": 1787053541756,
+    "sample": [
+      784
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:41.756Z"
+  },
+  {
+    "id": 1787053543447,
+    "sample": [
+      797
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:43.447Z"
+  },
+  {
+    "id": 1787053545071,
+    "sample": [
+      780
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:45.071Z"
+  },
+  {
+    "id": 1787053546697,
+    "sample": [
+      760
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:46.697Z"
+  },
+  {
+    "id": 1787053548412,
+    "sample": [
+      744
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:48.412Z"
+  },
+  {
+    "id": 1787053550002,
+    "sample": [
+      717
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:50.002Z"
+  },
+  {
+    "id": 1787053551707,
+    "sample": [
+      701
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:51.707Z"
+  },
+  {
+    "id": 1787053553365,
+    "sample": [
+      665
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:53.365Z"
+  },
+  {
+    "id": 1787053555032,
+    "sample": [
+      627
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:55.032Z"
+  },
+  {
+    "id": 1787053556657,
+    "sample": [
+      598
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:56.657Z"
+  },
+  {
+    "id": 1787053558292,
+    "sample": [
+      582
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:45:58.292Z"
+  },
+  {
+    "id": 1787053560038,
+    "sample": [
+      585
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:00.038Z"
+  },
+  {
+    "id": 1787053561666,
+    "sample": [
+      600
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:01.666Z"
+  },
+  {
+    "id": 1787053563323,
+    "sample": [
+      623
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:03.323Z"
+  },
+  {
+    "id": 1787053565007,
+    "sample": [
+      653
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:05.007Z"
+  },
+  {
+    "id": 1787053566642,
+    "sample": [
+      673
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:06.642Z"
+  },
+  {
+    "id": 1787053568233,
+    "sample": [
+      690
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:08.233Z"
+  },
+  {
+    "id": 1787053569946,
+    "sample": [
+      731
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:09.946Z"
+  },
+  {
+    "id": 1787053571542,
+    "sample": [
+      771
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:11.542Z"
+  },
+  {
+    "id": 1787053573182,
+    "sample": [
+      792
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:13.182Z"
+  },
+  {
+    "id": 1787053574984,
+    "sample": [
+      790
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:14.984Z"
+  },
+  {
+    "id": 1787053576688,
+    "sample": [
+      770
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:16.688Z"
+  },
+  {
+    "id": 1787053578379,
+    "sample": [
+      757
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:18.379Z"
+  },
+  {
+    "id": 1787053580105,
+    "sample": [
+      739
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:20.105Z"
+  },
+  {
+    "id": 1787053581888,
+    "sample": [
+      710
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:21.888Z"
+  },
+  {
+    "id": 1787053584105,
+    "sample": [
+      712
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:24.105Z"
+  },
+  {
+    "id": 1787053586525,
+    "sample": [
+      669
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:26.525Z"
+  },
+  {
+    "id": 1787053588185,
+    "sample": [
+      621
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:28.185Z"
+  },
+  {
+    "id": 1787053589786,
+    "sample": [
+      594
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:29.786Z"
+  },
+  {
+    "id": 1787053591396,
+    "sample": [
+      581
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:31.396Z"
+  },
+  {
+    "id": 1787053593106,
+    "sample": [
+      591
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:33.106Z"
+  },
+  {
+    "id": 1787053594886,
+    "sample": [
+      601
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:34.886Z"
+  },
+  {
+    "id": 1787053597072,
+    "sample": [
+      622
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:37.072Z"
+  },
+  {
+    "id": 1787053600107,
+    "sample": [
+      644
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:40.107Z"
+  },
+  {
+    "id": 1787053602614,
+    "sample": [
+      665
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:42.614Z"
+  },
+  {
+    "id": 1787053604520,
+    "sample": [
+      675
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:44.520Z"
+  },
+  {
+    "id": 1787053606401,
+    "sample": [
+      712
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:46.401Z"
+  },
+  {
+    "id": 1787053608342,
+    "sample": [
+      755
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:48.342Z"
+  },
+  {
+    "id": 1787053610519,
+    "sample": [
+      780
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:50.519Z"
+  },
+  {
+    "id": 1787053613220,
+    "sample": [
+      789
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:53.220Z"
+  },
+  {
+    "id": 1787053615788,
+    "sample": [
+      784
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:55.788Z"
+  },
+  {
+    "id": 1787053618226,
+    "sample": [
+      771
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:46:58.226Z"
+  },
+  {
+    "id": 1787053620823,
+    "sample": [
+      752
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:00.823Z"
+  },
+  {
+    "id": 1787053623456,
+    "sample": [
+      722
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:03.456Z"
+  },
+  {
+    "id": 1787053625671,
+    "sample": [
+      701
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:05.671Z"
+  },
+  {
+    "id": 1787053627584,
+    "sample": [
+      687
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:07.584Z"
+  },
+  {
+    "id": 1787053629425,
+    "sample": [
+      656
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:09.425Z"
+  },
+  {
+    "id": 1787053631319,
+    "sample": [
+      612
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:11.319Z"
+  },
+  {
+    "id": 1787053633552,
+    "sample": [
+      584
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:13.552Z"
+  },
+  {
+    "id": 1787053635716,
+    "sample": [
+      577
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:15.716Z"
+  },
+  {
+    "id": 1787053637868,
+    "sample": [
+      582
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:17.868Z"
+  },
+  {
+    "id": 1787053639807,
+    "sample": [
+      597
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:19.807Z"
+  },
+  {
+    "id": 1787053641837,
+    "sample": [
+      619
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:21.837Z"
+  },
+  {
+    "id": 1787053643948,
+    "sample": [
+      648
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:23.948Z"
+  },
+  {
+    "id": 1787053645781,
+    "sample": [
+      662
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:25.781Z"
+  },
+  {
+    "id": 1787053647498,
+    "sample": [
+      683
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:27.498Z"
+  },
+  {
+    "id": 1787053649181,
+    "sample": [
+      728
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:29.181Z"
+  },
+  {
+    "id": 1787053650977,
+    "sample": [
+      763
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:30.977Z"
+  },
+  {
+    "id": 1787053653109,
+    "sample": [
+      787
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:33.109Z"
+  },
+  {
+    "id": 1787053655116,
+    "sample": [
+      792
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:35.116Z"
+  },
+  {
+    "id": 1787053656909,
+    "sample": [
+      778
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:36.909Z"
+  },
+  {
+    "id": 1787053658693,
+    "sample": [
+      756
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:38.693Z"
+  },
+  {
+    "id": 1787053660521,
+    "sample": [
+      737
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:40.521Z"
+  },
+  {
+    "id": 1787053662286,
+    "sample": [
+      715
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:42.286Z"
+  },
+  {
+    "id": 1787053664067,
+    "sample": [
+      699
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:44.067Z"
+  },
+  {
+    "id": 1787053665858,
+    "sample": [
+      664
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:45.858Z"
+  },
+  {
+    "id": 1787053667631,
+    "sample": [
+      619
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:47.631Z"
+  },
+  {
+    "id": 1787053669347,
+    "sample": [
+      591
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:49.347Z"
+  },
+  {
+    "id": 1787053671076,
+    "sample": [
+      581
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:51.076Z"
+  },
+  {
+    "id": 1787053672747,
+    "sample": [
+      587
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:52.747Z"
+  },
+  {
+    "id": 1787053674631,
+    "sample": [
+      601
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:54.631Z"
+  },
+  {
+    "id": 1787053676383,
+    "sample": [
+      615
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:56.383Z"
+  },
+  {
+    "id": 1787053678109,
+    "sample": [
+      639
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:58.109Z"
+  },
+  {
+    "id": 1787053679938,
+    "sample": [
+      661
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:47:59.938Z"
+  },
+  {
+    "id": 1787053681685,
+    "sample": [
+      690
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:01.685Z"
+  },
+  {
+    "id": 1787053683464,
+    "sample": [
+      736
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:03.464Z"
+  },
+  {
+    "id": 1787053685186,
+    "sample": [
+      776
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:05.186Z"
+  },
+  {
+    "id": 1787053686897,
+    "sample": [
+      787
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:06.897Z"
+  },
+  {
+    "id": 1787053688642,
+    "sample": [
+      789
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:08.642Z"
+  },
+  {
+    "id": 1787053690440,
+    "sample": [
+      775
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:10.440Z"
+  },
+  {
+    "id": 1787053692197,
+    "sample": [
+      747
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:12.197Z"
+  },
+  {
+    "id": 1787053693911,
+    "sample": [
+      716
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:13.911Z"
+  },
+  {
+    "id": 1787053695925,
+    "sample": [
+      696
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:15.925Z"
+  },
+  {
+    "id": 1787053697603,
+    "sample": [
+      667
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:17.603Z"
+  },
+  {
+    "id": 1787053699221,
+    "sample": [
+      624
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:19.221Z"
+  },
+  {
+    "id": 1787053701007,
+    "sample": [
+      590
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:21.007Z"
+  },
+  {
+    "id": 1787053702617,
+    "sample": [
+      577
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:22.617Z"
+  },
+  {
+    "id": 1787053704248,
+    "sample": [
+      588
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:24.248Z"
+  },
+  {
+    "id": 1787053706009,
+    "sample": [
+      605
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:26.009Z"
+  },
+  {
+    "id": 1787053707729,
+    "sample": [
+      623
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:27.729Z"
+  },
+  {
+    "id": 1787053709452,
+    "sample": [
+      643
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:29.452Z"
+  },
+  {
+    "id": 1787053711215,
+    "sample": [
+      658
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:31.215Z"
+  },
+  {
+    "id": 1787053712937,
+    "sample": [
+      697
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:32.937Z"
+  },
+  {
+    "id": 1787053714645,
+    "sample": [
+      747
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:34.645Z"
+  },
+  {
+    "id": 1787053716402,
+    "sample": [
+      777
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:36.402Z"
+  },
+  {
+    "id": 1787053718094,
+    "sample": [
+      788
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:38.094Z"
+  },
+  {
+    "id": 1787053719899,
+    "sample": [
+      779
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:39.899Z"
+  },
+  {
+    "id": 1787053721712,
+    "sample": [
+      756
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:41.712Z"
+  },
+  {
+    "id": 1787053723518,
+    "sample": [
+      733
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:43.518Z"
+  },
+  {
+    "id": 1787053725345,
+    "sample": [
+      708
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:45.345Z"
+  },
+  {
+    "id": 1787053727153,
+    "sample": [
+      685
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:47.153Z"
+  },
+  {
+    "id": 1787053728852,
+    "sample": [
+      635
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:48.852Z"
+  },
+  {
+    "id": 1787053730531,
+    "sample": [
+      600
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:50.531Z"
+  },
+  {
+    "id": 1787053732210,
+    "sample": [
+      581
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:52.210Z"
+  },
+  {
+    "id": 1787053733816,
+    "sample": [
+      578
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:53.816Z"
+  },
+  {
+    "id": 1787053735418,
+    "sample": [
+      591
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:55.418Z"
+  },
+  {
+    "id": 1787053737067,
+    "sample": [
+      605
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:57.067Z"
+  },
+  {
+    "id": 1787053738728,
+    "sample": [
+      632
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:48:58.728Z"
+  },
+  {
+    "id": 1787053740365,
+    "sample": [
+      651
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:00.365Z"
+  },
+  {
+    "id": 1787053742020,
+    "sample": [
+      683
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:02.020Z"
+  },
+  {
+    "id": 1787053743632,
+    "sample": [
+      733
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:03.632Z"
+  },
+  {
+    "id": 1787053745207,
+    "sample": [
+      766
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:05.207Z"
+  },
+  {
+    "id": 1787053746865,
+    "sample": [
+      780
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:06.865Z"
+  },
+  {
+    "id": 1787053748566,
+    "sample": [
+      774
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:08.566Z"
+  },
+  {
+    "id": 1787053750174,
+    "sample": [
+      757
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:10.174Z"
+  },
+  {
+    "id": 1787053751804,
+    "sample": [
+      745
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:11.804Z"
+  },
+  {
+    "id": 1787053753444,
+    "sample": [
+      712
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:13.444Z"
+  },
+  {
+    "id": 1787053755113,
+    "sample": [
+      697
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:15.113Z"
+  },
+  {
+    "id": 1787053756727,
+    "sample": [
+      649
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:16.727Z"
+  },
+  {
+    "id": 1787053758348,
+    "sample": [
+      606
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:18.348Z"
+  },
+  {
+    "id": 1787053759984,
+    "sample": [
+      579
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:19.984Z"
+  },
+  {
+    "id": 1787053762045,
+    "sample": [
+      577
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:22.045Z"
+  },
+  {
+    "id": 1787053765146,
+    "sample": [
+      588
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:25.146Z"
+  },
+  {
+    "id": 1787053768459,
+    "sample": [
+      609
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:28.459Z"
+  },
+  {
+    "id": 1787053771457,
+    "sample": [
+      637
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:31.457Z"
+  },
+  {
+    "id": 1787053773938,
+    "sample": [
+      657
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:33.938Z"
+  },
+  {
+    "id": 1787053776437,
+    "sample": [
+      686
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:36.437Z"
+  },
+  {
+    "id": 1787053778922,
+    "sample": [
+      733
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:49:38.922Z"
+  },
+  {
+    "id": 1787053962605,
+    "sample": [
+      771
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:52:42.605Z"
+  },
+  {
+    "id": 1787053966917,
+    "sample": [
+      792
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:52:46.917Z"
+  },
+  {
+    "id": 1787053969447,
+    "sample": [
+      778
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:52:49.447Z"
+  },
+  {
+    "id": 1787053972347,
+    "sample": [
+      758
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:52:52.347Z"
+  },
+  {
+    "id": 1787053974375,
+    "sample": [
+      735
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:52:54.375Z"
+  },
+  {
+    "id": 1787053976267,
+    "sample": [
+      709
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:52:56.267Z"
+  },
+  {
+    "id": 1787053978164,
+    "sample": [
+      688
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:52:58.164Z"
+  },
+  {
+    "id": 1787053980326,
+    "sample": [
+      648
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:00.326Z"
+  },
+  {
+    "id": 1787053982358,
+    "sample": [
+      603
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:02.358Z"
+  },
+  {
+    "id": 1787053984242,
+    "sample": [
+      579
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:04.242Z"
+  },
+  {
+    "id": 1787053986266,
+    "sample": [
+      574
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:06.266Z"
+  },
+  {
+    "id": 1787053988112,
+    "sample": [
+      592
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:08.112Z"
+  },
+  {
+    "id": 1787053989932,
+    "sample": [
+      614
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:09.932Z"
+  },
+  {
+    "id": 1787053991740,
+    "sample": [
+      641
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:11.740Z"
+  },
+  {
+    "id": 1787053993478,
+    "sample": [
+      665
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:13.478Z"
+  },
+  {
+    "id": 1787053995275,
+    "sample": [
+      692
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:15.275Z"
+  },
+  {
+    "id": 1787053997218,
+    "sample": [
+      739
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:17.218Z"
+  },
+  {
+    "id": 1787053999479,
+    "sample": [
+      769
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:19.479Z"
+  },
+  {
+    "id": 1787054001276,
+    "sample": [
+      782
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:21.276Z"
+  },
+  {
+    "id": 1787054002929,
+    "sample": [
+      779
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:22.929Z"
+  },
+  {
+    "id": 1787054004534,
+    "sample": [
+      758
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:24.534Z"
+  },
+  {
+    "id": 1787054006242,
+    "sample": [
+      730
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:26.242Z"
+  },
+  {
+    "id": 1787054007933,
+    "sample": [
+      711
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:27.933Z"
+  },
+  {
+    "id": 1787054009600,
+    "sample": [
+      681
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:29.600Z"
+  },
+  {
+    "id": 1787054011249,
+    "sample": [
+      639
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:31.249Z"
+  },
+  {
+    "id": 1787054012855,
+    "sample": [
+      595
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:32.855Z"
+  },
+  {
+    "id": 1787054014511,
+    "sample": [
+      576
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:34.511Z"
+  },
+  {
+    "id": 1787054016162,
+    "sample": [
+      581
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:36.162Z"
+  },
+  {
+    "id": 1787054017770,
+    "sample": [
+      600
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:37.770Z"
+  },
+  {
+    "id": 1787054019436,
+    "sample": [
+      618
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:39.436Z"
+  },
+  {
+    "id": 1787054021041,
+    "sample": [
+      646
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:41.041Z"
+  },
+  {
+    "id": 1787054022690,
+    "sample": [
+      665
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:42.690Z"
+  },
+  {
+    "id": 1787054024351,
+    "sample": [
+      702
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:44.351Z"
+  },
+  {
+    "id": 1787054025961,
+    "sample": [
+      755
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:45.961Z"
+  },
+  {
+    "id": 1787054027557,
+    "sample": [
+      776
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:47.557Z"
+  },
+  {
+    "id": 1787054029177,
+    "sample": [
+      782
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:49.177Z"
+  },
+  {
+    "id": 1787054030847,
+    "sample": [
+      764
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:50.847Z"
+  },
+  {
+    "id": 1787054032662,
+    "sample": [
+      745
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:52.662Z"
+  },
+  {
+    "id": 1787054034489,
+    "sample": [
+      714
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:54.489Z"
+  },
+  {
+    "id": 1787054036685,
+    "sample": [
+      692
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:56.685Z"
+  },
+  {
+    "id": 1787054038392,
+    "sample": [
+      657
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:53:58.392Z"
+  },
+  {
+    "id": 1787054040038,
+    "sample": [
+      609
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:00.038Z"
+  },
+  {
+    "id": 1787054041611,
+    "sample": [
+      579
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:01.611Z"
+  },
+  {
+    "id": 1787054043346,
+    "sample": [
+      571
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:03.346Z"
+  },
+  {
+    "id": 1787054045105,
+    "sample": [
+      591
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:05.105Z"
+  },
+  {
+    "id": 1787054046930,
+    "sample": [
+      608
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:06.930Z"
+  },
+  {
+    "id": 1787054048668,
+    "sample": [
+      634
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:08.668Z"
+  },
+  {
+    "id": 1787054050394,
+    "sample": [
+      658
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:10.394Z"
+  },
+  {
+    "id": 1787054052171,
+    "sample": [
+      697
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:12.171Z"
+  },
+  {
+    "id": 1787054053813,
+    "sample": [
+      742
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:13.813Z"
+  },
+  {
+    "id": 1787054055446,
+    "sample": [
+      774
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:15.446Z"
+  },
+  {
+    "id": 1787054057114,
+    "sample": [
+      778
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:17.114Z"
+  },
+  {
+    "id": 1787054058976,
+    "sample": [
+      765
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:18.976Z"
+  },
+  {
+    "id": 1787054060704,
+    "sample": [
+      745
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:20.704Z"
+  },
+  {
+    "id": 1787054062448,
+    "sample": [
+      717
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:22.448Z"
+  },
+  {
+    "id": 1787054064274,
+    "sample": [
+      690
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:24.274Z"
+  },
+  {
+    "id": 1787054066093,
+    "sample": [
+      653
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:26.093Z"
+  },
+  {
+    "id": 1787054067873,
+    "sample": [
+      608
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:27.873Z"
+  },
+  {
+    "id": 1787054069662,
+    "sample": [
+      578
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:29.662Z"
+  },
+  {
+    "id": 1787054071427,
+    "sample": [
+      573
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:31.427Z"
+  },
+  {
+    "id": 1787054073233,
+    "sample": [
+      589
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:33.233Z"
+  },
+  {
+    "id": 1787054075289,
+    "sample": [
+      610
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:35.289Z"
+  },
+  {
+    "id": 1787054077185,
+    "sample": [
+      637
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:37.185Z"
+  },
+  {
+    "id": 1787054078915,
+    "sample": [
+      658
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:38.915Z"
+  },
+  {
+    "id": 1787054080593,
+    "sample": [
+      705
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:40.593Z"
+  },
+  {
+    "id": 1787054082310,
+    "sample": [
+      753
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:42.310Z"
+  },
+  {
+    "id": 1787054083990,
+    "sample": [
+      781
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:43.990Z"
+  },
+  {
+    "id": 1787054085823,
+    "sample": [
+      777
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:45.823Z"
+  },
+  {
+    "id": 1787054087468,
+    "sample": [
+      760
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:47.468Z"
+  },
+  {
+    "id": 1787054089282,
+    "sample": [
+      737
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:49.282Z"
+  },
+  {
+    "id": 1787054091365,
+    "sample": [
+      711
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:51.365Z"
+  },
+  {
+    "id": 1787054093037,
+    "sample": [
+      684
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:53.037Z"
+  },
+  {
+    "id": 1787054094718,
+    "sample": [
+      640
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:54.718Z"
+  },
+  {
+    "id": 1787054096343,
+    "sample": [
+      593
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:56.343Z"
+  },
+  {
+    "id": 1787054097982,
+    "sample": [
+      569
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:57.982Z"
+  },
+  {
+    "id": 1787054099579,
+    "sample": [
+      578
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:54:59.579Z"
+  },
+  {
+    "id": 1787054101145,
+    "sample": [
+      594
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:01.145Z"
+  },
+  {
+    "id": 1787054102742,
+    "sample": [
+      621
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:02.742Z"
+  },
+  {
+    "id": 1787054104348,
+    "sample": [
+      648
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:04.348Z"
+  },
+  {
+    "id": 1787054106055,
+    "sample": [
+      668
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:06.055Z"
+  },
+  {
+    "id": 1787054107852,
+    "sample": [
+      721
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:07.852Z"
+  },
+  {
+    "id": 1787054109790,
+    "sample": [
+      762
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:09.790Z"
+  },
+  {
+    "id": 1787054111737,
+    "sample": [
+      783
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:11.737Z"
+  },
+  {
+    "id": 1787054113354,
+    "sample": [
+      779
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:13.354Z"
+  },
+  {
+    "id": 1787054114990,
+    "sample": [
+      753
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:14.990Z"
+  },
+  {
+    "id": 1787054116687,
+    "sample": [
+      731
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:16.687Z"
+  },
+  {
+    "id": 1787054118297,
+    "sample": [
+      703
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:18.297Z"
+  },
+  {
+    "id": 1787054119883,
+    "sample": [
+      679
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:19.883Z"
+  },
+  {
+    "id": 1787054121584,
+    "sample": [
+      627
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:21.584Z"
+  },
+  {
+    "id": 1787054123249,
+    "sample": [
+      588
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:23.249Z"
+  },
+  {
+    "id": 1787054124910,
+    "sample": [
+      568
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:24.910Z"
+  },
+  {
+    "id": 1787054126551,
+    "sample": [
+      577
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:26.551Z"
+  },
+  {
+    "id": 1787054128213,
+    "sample": [
+      595
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:28.213Z"
+  },
+  {
+    "id": 1787054129841,
+    "sample": [
+      617
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:29.841Z"
+  },
+  {
+    "id": 1787054131478,
+    "sample": [
+      647
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:31.478Z"
+  },
+  {
+    "id": 1787054133103,
+    "sample": [
+      667
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:33.103Z"
+  },
+  {
+    "id": 1787054134703,
+    "sample": [
+      719
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:34.703Z"
+  },
+  {
+    "id": 1787054136578,
+    "sample": [
+      756
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:36.578Z"
+  },
+  {
+    "id": 1787054138496,
+    "sample": [
+      780
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:38.496Z"
+  },
+  {
+    "id": 1787054140074,
+    "sample": [
+      779
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:40.074Z"
+  },
+  {
+    "id": 1787054141680,
+    "sample": [
+      751
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:41.680Z"
+  },
+  {
+    "id": 1787054143313,
+    "sample": [
+      730
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:43.313Z"
+  },
+  {
+    "id": 1787054144835,
+    "sample": [
+      707
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:44.835Z"
+  },
+  {
+    "id": 1787054146392,
+    "sample": [
+      686
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:46.392Z"
+  },
+  {
+    "id": 1787054147985,
+    "sample": [
+      637
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:47.985Z"
+  },
+  {
+    "id": 1787054149522,
+    "sample": [
+      590
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:49.522Z"
+  },
+  {
+    "id": 1787054151038,
+    "sample": [
+      571
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:51.038Z"
+  },
+  {
+    "id": 1787054152645,
+    "sample": [
+      575
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:52.645Z"
+  },
+  {
+    "id": 1787054154207,
+    "sample": [
+      593
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:54.207Z"
+  },
+  {
+    "id": 1787054155753,
+    "sample": [
+      616
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:55.753Z"
+  },
+  {
+    "id": 1787054157314,
+    "sample": [
+      634
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:57.314Z"
+  },
+  {
+    "id": 1787054158937,
+    "sample": [
+      656
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:55:58.937Z"
+  },
+  {
+    "id": 1787054160498,
+    "sample": [
+      703
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:00.498Z"
+  },
+  {
+    "id": 1787054162063,
+    "sample": [
+      748
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:02.063Z"
+  },
+  {
+    "id": 1787054163667,
+    "sample": [
+      775
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:03.667Z"
+  },
+  {
+    "id": 1787054165223,
+    "sample": [
+      777
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:05.223Z"
+  },
+  {
+    "id": 1787054166753,
+    "sample": [
+      756
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:06.753Z"
+  },
+  {
+    "id": 1787054168339,
+    "sample": [
+      737
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:08.339Z"
+  },
+  {
+    "id": 1787054169861,
+    "sample": [
+      710
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:09.861Z"
+  },
+  {
+    "id": 1787054171417,
+    "sample": [
+      690
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:11.417Z"
+  },
+  {
+    "id": 1787054172959,
+    "sample": [
+      648
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:12.959Z"
+  },
+  {
+    "id": 1787054174848,
+    "sample": [
+      599
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:14.848Z"
+  },
+  {
+    "id": 1787054176548,
+    "sample": [
+      579
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:16.548Z"
+  },
+  {
+    "id": 1787054178173,
+    "sample": [
+      567
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:18.173Z"
+  },
+  {
+    "id": 1787054179780,
+    "sample": [
+      592
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:19.780Z"
+  },
+  {
+    "id": 1787054181429,
+    "sample": [
+      611
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:21.429Z"
+  },
+  {
+    "id": 1787054183044,
+    "sample": [
+      636
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:23.044Z"
+  },
+  {
+    "id": 1787054184980,
+    "sample": [
+      654
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:24.980Z"
+  },
+  {
+    "id": 1787054186816,
+    "sample": [
+      693
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:26.816Z"
+  },
+  {
+    "id": 1787054188560,
+    "sample": [
+      744
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:28.560Z"
+  },
+  {
+    "id": 1787054190360,
+    "sample": [
+      768
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:30.360Z"
+  },
+  {
+    "id": 1787054192002,
+    "sample": [
+      779
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:32.002Z"
+  },
+  {
+    "id": 1787054193774,
+    "sample": [
+      760
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0.6666666666666666,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:33.774Z"
+  },
+  {
+    "id": 1787054195753,
+    "sample": [
+      743
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:35.753Z"
+  },
+  {
+    "id": 1787054197494,
+    "sample": [
+      716
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:37.494Z"
+  },
+  {
+    "id": 1787054199191,
+    "sample": [
+      688
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:39.191Z"
+  },
+  {
+    "id": 1787054200834,
+    "sample": [
+      660
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:40.834Z"
+  },
+  {
+    "id": 1787054202919,
+    "sample": [
+      616
+    ],
+    "classification": "Escuro",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 1,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:56:42.919Z"
+  },
+  {
+    "id": 1787054254597,
+    "sample": [
+      1560
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:57:34.597Z"
+  },
+  {
+    "id": 1787054256398,
+    "sample": [
+      1540
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:57:36.398Z"
+  },
+  {
+    "id": 1787054258014,
+    "sample": [
+      1536
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:57:38.014Z"
+  },
+  {
+    "id": 1787054259675,
+    "sample": [
+      1537
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:57:39.675Z"
+  },
+  {
+    "id": 1787054261348,
+    "sample": [
+      1538
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:57:41.348Z"
+  },
+  {
+    "id": 1787054262947,
+    "sample": [
+      1536
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:57:42.947Z"
+  },
+  {
+    "id": 1787054264536,
+    "sample": [
+      1534
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:57:44.536Z"
+  },
+  {
+    "id": 1787054266140,
+    "sample": [
+      1536
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:57:46.140Z"
+  },
+  {
+    "id": 1787054267748,
+    "sample": [
+      1537
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:57:47.748Z"
+  },
+  {
+    "id": 1787054269408,
+    "sample": [
+      1537
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:57:49.408Z"
+  },
+  {
+    "id": 1787054271049,
+    "sample": [
+      1537
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:57:51.049Z"
+  },
+  {
+    "id": 1787054272705,
+    "sample": [
+      1538
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:57:52.705Z"
+  },
+  {
+    "id": 1787054274307,
+    "sample": [
+      1538
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:57:54.307Z"
+  },
+  {
+    "id": 1787054275973,
+    "sample": [
+      1538
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:57:55.973Z"
+  },
+  {
+    "id": 1787054277596,
+    "sample": [
+      1540
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:57:57.596Z"
+  },
+  {
+    "id": 1787054279209,
+    "sample": [
+      1538
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:57:59.209Z"
+  },
+  {
+    "id": 1787054280903,
+    "sample": [
+      1538
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:58:00.903Z"
+  },
+  {
+    "id": 1787054282786,
+    "sample": [
+      1539
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:58:02.786Z"
+  },
+  {
+    "id": 1787054284861,
+    "sample": [
+      1539
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:58:04.861Z"
+  },
+  {
+    "id": 1787054286600,
+    "sample": [
+      1539
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:58:06.600Z"
+  },
+  {
+    "id": 1787054288224,
+    "sample": [
+      1538
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:58:08.224Z"
+  },
+  {
+    "id": 1787054289959,
+    "sample": [
+      1536
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:58:09.959Z"
+  },
+  {
+    "id": 1787054291643,
+    "sample": [
+      1537
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:58:11.643Z"
+  },
+  {
+    "id": 1787054293401,
+    "sample": [
+      1534
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:58:13.401Z"
+  },
+  {
+    "id": 1787054295095,
+    "sample": [
+      1559
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:58:15.095Z"
+  },
+  {
+    "id": 1787054296890,
+    "sample": [
+      1660
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:58:16.890Z"
+  },
+  {
+    "id": 1787054298509,
+    "sample": [
+      2320
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T11:58:18.509Z"
+  },
+  {
+    "id": 1787054300087,
+    "sample": [
+      2753
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T11:58:20.087Z"
+  },
+  {
+    "id": 1787054301815,
+    "sample": [
+      3154
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:21.815Z"
+  },
+  {
+    "id": 1787054303644,
+    "sample": [
+      3462
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:23.644Z"
+  },
+  {
+    "id": 1787054305978,
+    "sample": [
+      3783
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:25.978Z"
+  },
+  {
+    "id": 1787054307591,
+    "sample": [
+      4028
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:27.591Z"
+  },
+  {
+    "id": 1787054309586,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:29.586Z"
+  },
+  {
+    "id": 1787054311448,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:31.448Z"
+  },
+  {
+    "id": 1787054313179,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:33.179Z"
+  },
+  {
+    "id": 1787054315003,
+    "sample": [
+      4087
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:35.003Z"
+  },
+  {
+    "id": 1787054316690,
+    "sample": [
+      4093
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:36.690Z"
+  },
+  {
+    "id": 1787054318407,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:38.407Z"
+  },
+  {
+    "id": 1787054320198,
+    "sample": [
+      4091
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:40.198Z"
+  },
+  {
+    "id": 1787054321951,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:41.951Z"
+  },
+  {
+    "id": 1787054323634,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:43.634Z"
+  },
+  {
+    "id": 1787054325292,
+    "sample": [
+      4095
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:45.292Z"
+  },
+  {
+    "id": 1787054327160,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:47.160Z"
+  },
+  {
+    "id": 1787054329394,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:49.394Z"
+  },
+  {
+    "id": 1787054331159,
+    "sample": [
+      4091
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:51.159Z"
+  },
+  {
+    "id": 1787054332839,
+    "sample": [
+      4079
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:52.839Z"
+  },
+  {
+    "id": 1787054334478,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:54.478Z"
+  },
+  {
+    "id": 1787054336202,
+    "sample": [
+      4095
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:56.202Z"
+  },
+  {
+    "id": 1787054337860,
+    "sample": [
+      4079
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:57.860Z"
+  },
+  {
+    "id": 1787054339519,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:58:59.519Z"
+  },
+  {
+    "id": 1787054341663,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:01.663Z"
+  },
+  {
+    "id": 1787054343290,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:03.290Z"
+  },
+  {
+    "id": 1787054344983,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:04.983Z"
+  },
+  {
+    "id": 1787054346607,
+    "sample": [
+      4093
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:06.607Z"
+  },
+  {
+    "id": 1787054348242,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:08.242Z"
+  },
+  {
+    "id": 1787054349861,
+    "sample": [
+      4095
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:09.861Z"
+  },
+  {
+    "id": 1787054351574,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:11.574Z"
+  },
+  {
+    "id": 1787054353688,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:13.688Z"
+  },
+  {
+    "id": 1787054355485,
+    "sample": [
+      4095
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:15.485Z"
+  },
+  {
+    "id": 1787054357691,
+    "sample": [
+      4091
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:17.691Z"
+  },
+  {
+    "id": 1787054359525,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:19.525Z"
+  },
+  {
+    "id": 1787054361334,
+    "sample": [
+      4095
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:21.334Z"
+  },
+  {
+    "id": 1787054363313,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:23.313Z"
+  },
+  {
+    "id": 1787054364970,
+    "sample": [
+      4095
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:24.970Z"
+  },
+  {
+    "id": 1787054366582,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:26.582Z"
+  },
+  {
+    "id": 1787054368170,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:28.170Z"
+  },
+  {
+    "id": 1787054369710,
+    "sample": [
+      4091
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:29.710Z"
+  },
+  {
+    "id": 1787054371203,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:31.203Z"
+  },
+  {
+    "id": 1787054372827,
+    "sample": [
+      4093
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:32.827Z"
+  },
+  {
+    "id": 1787054374472,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:34.472Z"
+  },
+  {
+    "id": 1787054376030,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:36.030Z"
+  },
+  {
+    "id": 1787054377612,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:37.612Z"
+  },
+  {
+    "id": 1787054379217,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:39.217Z"
+  },
+  {
+    "id": 1787054380754,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:40.754Z"
+  },
+  {
+    "id": 1787054382335,
+    "sample": [
+      4095
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:42.335Z"
+  },
+  {
+    "id": 1787054383879,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:43.879Z"
+  },
+  {
+    "id": 1787054385438,
+    "sample": [
+      4091
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:45.438Z"
+  },
+  {
+    "id": 1787054386997,
+    "sample": [
+      4091
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:46.997Z"
+  },
+  {
+    "id": 1787054388611,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:48.611Z"
+  },
+  {
+    "id": 1787054390369,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:50.369Z"
+  },
+  {
+    "id": 1787054392166,
+    "sample": [
+      4091
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:52.166Z"
+  },
+  {
+    "id": 1787054393879,
+    "sample": [
+      4091
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:53.879Z"
+  },
+  {
+    "id": 1787054395618,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:55.618Z"
+  },
+  {
+    "id": 1787054397353,
+    "sample": [
+      4095
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:57.353Z"
+  },
+  {
+    "id": 1787054399407,
+    "sample": [
+      4095
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T11:59:59.407Z"
+  },
+  {
+    "id": 1787054401157,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:01.157Z"
+  },
+  {
+    "id": 1787054403018,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:03.018Z"
+  },
+  {
+    "id": 1787054404891,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:04.891Z"
+  },
+  {
+    "id": 1787054406670,
+    "sample": [
+      4091
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:06.670Z"
+  },
+  {
+    "id": 1787054408509,
+    "sample": [
+      4095
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:08.509Z"
+  },
+  {
+    "id": 1787054410774,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:10.774Z"
+  },
+  {
+    "id": 1787054413649,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:13.649Z"
+  },
+  {
+    "id": 1787054416429,
+    "sample": [
+      4093
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:16.429Z"
+  },
+  {
+    "id": 1787054419427,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:19.427Z"
+  },
+  {
+    "id": 1787054422170,
+    "sample": [
+      4091
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:22.170Z"
+  },
+  {
+    "id": 1787054424465,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:24.465Z"
+  },
+  {
+    "id": 1787054426680,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:26.680Z"
+  },
+  {
+    "id": 1787054428597,
+    "sample": [
+      4091
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:28.597Z"
+  },
+  {
+    "id": 1787054430376,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:30.376Z"
+  },
+  {
+    "id": 1787054432162,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:32.162Z"
+  },
+  {
+    "id": 1787054433854,
+    "sample": [
+      4090
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:33.854Z"
+  },
+  {
+    "id": 1787054435561,
+    "sample": [
+      4093
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:35.561Z"
+  },
+  {
+    "id": 1787054437744,
+    "sample": [
+      4091
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:37.744Z"
+  },
+  {
+    "id": 1787054440116,
+    "sample": [
+      4095
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:40.116Z"
+  },
+  {
+    "id": 1787054442099,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:42.099Z"
+  },
+  {
+    "id": 1787054443985,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:43.985Z"
+  },
+  {
+    "id": 1787054445708,
+    "sample": [
+      4091
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:45.708Z"
+  },
+  {
+    "id": 1787054447459,
+    "sample": [
+      4093
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:47.459Z"
+  },
+  {
+    "id": 1787054449380,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:49.380Z"
+  },
+  {
+    "id": 1787054451466,
+    "sample": [
+      4077
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:51.466Z"
+  },
+  {
+    "id": 1787054453946,
+    "sample": [
+      3995
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:53.946Z"
+  },
+  {
+    "id": 1787054456691,
+    "sample": [
+      3851
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:56.691Z"
+  },
+  {
+    "id": 1787054459228,
+    "sample": [
+      3760
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:00:59.228Z"
+  },
+  {
+    "id": 1787054462001,
+    "sample": [
+      3638
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:01:02.001Z"
+  },
+  {
+    "id": 1787054464590,
+    "sample": [
+      3532
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:01:04.590Z"
+  },
+  {
+    "id": 1787054466575,
+    "sample": [
+      3437
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:01:06.575Z"
+  },
+  {
+    "id": 1787054468398,
+    "sample": [
+      3314
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:01:08.398Z"
+  },
+  {
+    "id": 1787054470380,
+    "sample": [
+      3190
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:01:10.380Z"
+  },
+  {
+    "id": 1787054472171,
+    "sample": [
+      3055
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.6666666666666666
+    },
+    "createdAt": "2026-08-18T12:01:12.171Z"
+  },
+  {
+    "id": 1787054474232,
+    "sample": [
+      2927
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0.3333333333333333,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.6666666666666666
+    },
+    "createdAt": "2026-08-18T12:01:14.232Z"
+  },
+  {
+    "id": 1787054476314,
+    "sample": [
+      2816
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:16.315Z"
+  },
+  {
+    "id": 1787054478282,
+    "sample": [
+      2690
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:18.282Z"
+  },
+  {
+    "id": 1787054480168,
+    "sample": [
+      2573
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:20.168Z"
+  },
+  {
+    "id": 1787054482046,
+    "sample": [
+      2524
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:22.046Z"
+  },
+  {
+    "id": 1787054483997,
+    "sample": [
+      2508
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:23.997Z"
+  },
+  {
+    "id": 1787054485833,
+    "sample": [
+      2520
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:25.833Z"
+  },
+  {
+    "id": 1787054487765,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:27.765Z"
+  },
+  {
+    "id": 1787054489591,
+    "sample": [
+      2510
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:29.591Z"
+  },
+  {
+    "id": 1787054491409,
+    "sample": [
+      2510
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:31.409Z"
+  },
+  {
+    "id": 1787054493270,
+    "sample": [
+      2505
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:33.270Z"
+  },
+  {
+    "id": 1787054495126,
+    "sample": [
+      2508
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:35.126Z"
+  },
+  {
+    "id": 1787054497532,
+    "sample": [
+      2505
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:37.532Z"
+  },
+  {
+    "id": 1787054499924,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:39.924Z"
+  },
+  {
+    "id": 1787054502264,
+    "sample": [
+      2506
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:42.264Z"
+  },
+  {
+    "id": 1787054504479,
+    "sample": [
+      2508
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:44.479Z"
+  },
+  {
+    "id": 1787054506648,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:46.648Z"
+  },
+  {
+    "id": 1787054508486,
+    "sample": [
+      2506
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:48.486Z"
+  },
+  {
+    "id": 1787054510371,
+    "sample": [
+      2508
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:50.371Z"
+  },
+  {
+    "id": 1787054512192,
+    "sample": [
+      2508
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:52.192Z"
+  },
+  {
+    "id": 1787054514029,
+    "sample": [
+      2506
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:54.029Z"
+  },
+  {
+    "id": 1787054515865,
+    "sample": [
+      2508
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:55.865Z"
+  },
+  {
+    "id": 1787054517780,
+    "sample": [
+      2510
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:57.780Z"
+  },
+  {
+    "id": 1787054519645,
+    "sample": [
+      2505
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:01:59.645Z"
+  },
+  {
+    "id": 1787054521817,
+    "sample": [
+      2506
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:01.817Z"
+  },
+  {
+    "id": 1787054523630,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:03.630Z"
+  },
+  {
+    "id": 1787054525340,
+    "sample": [
+      2506
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:05.340Z"
+  },
+  {
+    "id": 1787054527052,
+    "sample": [
+      2508
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:07.052Z"
+  },
+  {
+    "id": 1787054528734,
+    "sample": [
+      2508
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:08.734Z"
+  },
+  {
+    "id": 1787054530418,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:10.418Z"
+  },
+  {
+    "id": 1787054532118,
+    "sample": [
+      2503
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:12.118Z"
+  },
+  {
+    "id": 1787054533863,
+    "sample": [
+      2508
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:13.863Z"
+  },
+  {
+    "id": 1787054535629,
+    "sample": [
+      2506
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:15.629Z"
+  },
+  {
+    "id": 1787054537327,
+    "sample": [
+      2508
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:17.327Z"
+  },
+  {
+    "id": 1787054538994,
+    "sample": [
+      2503
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:18.994Z"
+  },
+  {
+    "id": 1787054540639,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:20.639Z"
+  },
+  {
+    "id": 1787054542352,
+    "sample": [
+      2503
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:22.352Z"
+  },
+  {
+    "id": 1787054544064,
+    "sample": [
+      2494
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:02:24.064Z"
+  },
+  {
+    "id": 1787054545955,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:25.955Z"
+  },
+  {
+    "id": 1787054547654,
+    "sample": [
+      2508
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:27.654Z"
+  },
+  {
+    "id": 1787054549444,
+    "sample": [
+      2506
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:29.444Z"
+  },
+  {
+    "id": 1787054551548,
+    "sample": [
+      2508
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:31.548Z"
+  },
+  {
+    "id": 1787054553170,
+    "sample": [
+      2505
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:33.170Z"
+  },
+  {
+    "id": 1787054554791,
+    "sample": [
+      2502
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:34.791Z"
+  },
+  {
+    "id": 1787054556513,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:36.513Z"
+  },
+  {
+    "id": 1787054558110,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:38.110Z"
+  },
+  {
+    "id": 1787054559699,
+    "sample": [
+      2502
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:39.699Z"
+  },
+  {
+    "id": 1787054561289,
+    "sample": [
+      2505
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:41.289Z"
+  },
+  {
+    "id": 1787054562842,
+    "sample": [
+      2503
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:42.842Z"
+  },
+  {
+    "id": 1787054564392,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:44.392Z"
+  },
+  {
+    "id": 1787054565979,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:45.979Z"
+  },
+  {
+    "id": 1787054567606,
+    "sample": [
+      2506
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:47.606Z"
+  },
+  {
+    "id": 1787054569208,
+    "sample": [
+      2503
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:49.208Z"
+  },
+  {
+    "id": 1787054570821,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:50.821Z"
+  },
+  {
+    "id": 1787054572589,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:52.589Z"
+  },
+  {
+    "id": 1787054574179,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:54.179Z"
+  },
+  {
+    "id": 1787054576006,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:56.006Z"
+  },
+  {
+    "id": 1787054578629,
+    "sample": [
+      2505
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:02:58.629Z"
+  },
+  {
+    "id": 1787054580708,
+    "sample": [
+      2506
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:00.708Z"
+  },
+  {
+    "id": 1787054582765,
+    "sample": [
+      2499
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:03:02.765Z"
+  },
+  {
+    "id": 1787054584718,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:04.718Z"
+  },
+  {
+    "id": 1787054586705,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:06.705Z"
+  },
+  {
+    "id": 1787054588690,
+    "sample": [
+      2511
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:08.690Z"
+  },
+  {
+    "id": 1787054590791,
+    "sample": [
+      2503
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:10.791Z"
+  },
+  {
+    "id": 1787054592811,
+    "sample": [
+      2506
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:12.811Z"
+  },
+  {
+    "id": 1787054594853,
+    "sample": [
+      2509
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:14.853Z"
+  },
+  {
+    "id": 1787054596857,
+    "sample": [
+      2503
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:16.857Z"
+  },
+  {
+    "id": 1787054598823,
+    "sample": [
+      2505
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:18.823Z"
+  },
+  {
+    "id": 1787054600798,
+    "sample": [
+      2504
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:20.798Z"
+  },
+  {
+    "id": 1787054602758,
+    "sample": [
+      2512
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:22.758Z"
+  },
+  {
+    "id": 1787054604776,
+    "sample": [
+      2508
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:24.776Z"
+  },
+  {
+    "id": 1787054606938,
+    "sample": [
+      2506
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:26.938Z"
+  },
+  {
+    "id": 1787054609341,
+    "sample": [
+      2504
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:29.341Z"
+  },
+  {
+    "id": 1787054611744,
+    "sample": [
+      2503
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:31.744Z"
+  },
+  {
+    "id": 1787054614974,
+    "sample": [
+      2504
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:34.974Z"
+  },
+  {
+    "id": 1787054617165,
+    "sample": [
+      2505
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:37.165Z"
+  },
+  {
+    "id": 1787054619211,
+    "sample": [
+      2502
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:39.211Z"
+  },
+  {
+    "id": 1787054621213,
+    "sample": [
+      2502
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:41.213Z"
+  },
+  {
+    "id": 1787054623271,
+    "sample": [
+      2518
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:43.271Z"
+  },
+  {
+    "id": 1787054625317,
+    "sample": [
+      2502
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:45.317Z"
+  },
+  {
+    "id": 1787054627353,
+    "sample": [
+      2504
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:47.353Z"
+  },
+  {
+    "id": 1787054629395,
+    "sample": [
+      2504
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:49.395Z"
+  },
+  {
+    "id": 1787054631609,
+    "sample": [
+      2502
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:51.609Z"
+  },
+  {
+    "id": 1787054633767,
+    "sample": [
+      2506
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:53.767Z"
+  },
+  {
+    "id": 1787054635807,
+    "sample": [
+      2502
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:55.807Z"
+  },
+  {
+    "id": 1787054637770,
+    "sample": [
+      2506
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:03:57.770Z"
+  },
+  {
+    "id": 1787054640246,
+    "sample": [
+      2503
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:00.246Z"
+  },
+  {
+    "id": 1787054642623,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:02.623Z"
+  },
+  {
+    "id": 1787054644770,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:04.770Z"
+  },
+  {
+    "id": 1787054646931,
+    "sample": [
+      2496
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:04:06.931Z"
+  },
+  {
+    "id": 1787054649163,
+    "sample": [
+      2504
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:09.163Z"
+  },
+  {
+    "id": 1787054651312,
+    "sample": [
+      2503
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:11.312Z"
+  },
+  {
+    "id": 1787054652938,
+    "sample": [
+      2503
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:12.938Z"
+  },
+  {
+    "id": 1787054655113,
+    "sample": [
+      2506
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:15.113Z"
+  },
+  {
+    "id": 1787054658216,
+    "sample": [
+      2502
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:18.216Z"
+  },
+  {
+    "id": 1787054660639,
+    "sample": [
+      2503
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:20.639Z"
+  },
+  {
+    "id": 1787054662528,
+    "sample": [
+      2505
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:22.528Z"
+  },
+  {
+    "id": 1787054664732,
+    "sample": [
+      2506
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:24.732Z"
+  },
+  {
+    "id": 1787054667034,
+    "sample": [
+      2502
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:27.034Z"
+  },
+  {
+    "id": 1787054668907,
+    "sample": [
+      2505
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:28.907Z"
+  },
+  {
+    "id": 1787054671417,
+    "sample": [
+      2502
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:31.417Z"
+  },
+  {
+    "id": 1787054673398,
+    "sample": [
+      2506
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:33.398Z"
+  },
+  {
+    "id": 1787054675396,
+    "sample": [
+      2502
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:35.396Z"
+  },
+  {
+    "id": 1787054677399,
+    "sample": [
+      2507
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:37.399Z"
+  },
+  {
+    "id": 1787054679446,
+    "sample": [
+      2494
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:04:39.446Z"
+  },
+  {
+    "id": 1787054681401,
+    "sample": [
+      2502
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 0.6666666666666666,
+      "Escuro": 0,
+      "Muito_Iluminado": 0.3333333333333333
+    },
+    "createdAt": "2026-08-18T12:04:41.401Z"
+  },
+  {
+    "id": 1787054717702,
+    "sample": [
+      4095
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:05:17.702Z"
+  },
+  {
+    "id": 1787054719904,
+    "sample": [
+      4093
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:05:19.904Z"
+  },
+  {
+    "id": 1787054721765,
+    "sample": [
+      4094
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:05:21.765Z"
+  },
+  {
+    "id": 1787054724074,
+    "sample": [
+      4093
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:05:24.074Z"
+  },
+  {
+    "id": 1787054725779,
+    "sample": [
+      4095
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:05:25.779Z"
+  },
+  {
+    "id": 1787054727628,
+    "sample": [
+      3209
+    ],
+    "classification": "Muito_Iluminado",
+    "probabilities": {
+      "Adequado": 0,
+      "Escuro": 0,
+      "Muito_Iluminado": 1
+    },
+    "createdAt": "2026-08-18T12:05:27.628Z"
+  },
+  {
+    "id": 1787054729357,
+    "sample": [
+      2189
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:29.357Z"
+  },
+  {
+    "id": 1787054731245,
+    "sample": [
+      2139
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:31.245Z"
+  },
+  {
+    "id": 1787054732916,
+    "sample": [
+      1304
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:32.916Z"
+  },
+  {
+    "id": 1787054734562,
+    "sample": [
+      1352
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:34.562Z"
+  },
+  {
+    "id": 1787054736319,
+    "sample": [
+      2384
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:36.319Z"
+  },
+  {
+    "id": 1787054738195,
+    "sample": [
+      2388
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:38.195Z"
+  },
+  {
+    "id": 1787054740065,
+    "sample": [
+      2383
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:40.065Z"
+  },
+  {
+    "id": 1787054742311,
+    "sample": [
+      2388
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:42.311Z"
+  },
+  {
+    "id": 1787054744291,
+    "sample": [
+      2386
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:44.291Z"
+  },
+  {
+    "id": 1787054746002,
+    "sample": [
+      2384
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:46.002Z"
+  },
+  {
+    "id": 1787054747623,
+    "sample": [
+      2384
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:47.623Z"
+  },
+  {
+    "id": 1787054749185,
+    "sample": [
+      2386
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:49.185Z"
+  },
+  {
+    "id": 1787054751097,
+    "sample": [
+      2394
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:51.097Z"
+  },
+  {
+    "id": 1787054752985,
+    "sample": [
+      2385
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:52.985Z"
+  },
+  {
+    "id": 1787054754640,
+    "sample": [
+      2389
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:54.640Z"
+  },
+  {
+    "id": 1787054756278,
+    "sample": [
+      2399
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:56.278Z"
+  },
+  {
+    "id": 1787054757954,
+    "sample": [
+      2386
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:57.954Z"
+  },
+  {
+    "id": 1787054759782,
+    "sample": [
+      2388
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:05:59.782Z"
+  },
+  {
+    "id": 1787054761684,
+    "sample": [
+      2388
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:06:01.684Z"
+  },
+  {
+    "id": 1787054763602,
+    "sample": [
+      2388
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:06:03.602Z"
+  },
+  {
+    "id": 1787054765555,
+    "sample": [
+      2385
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:06:05.555Z"
+  },
+  {
+    "id": 1787054768077,
+    "sample": [
+      2386
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:06:08.077Z"
+  },
+  {
+    "id": 1787054770382,
+    "sample": [
+      2386
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:06:10.382Z"
+  },
+  {
+    "id": 1787054772228,
+    "sample": [
+      2387
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:06:12.228Z"
+  },
+  {
+    "id": 1787054774210,
+    "sample": [
+      2386
+    ],
+    "classification": "Adequado",
+    "probabilities": {
+      "Adequado": 1,
+      "Escuro": 0,
+      "Muito_Iluminado": 0
+    },
+    "createdAt": "2026-08-18T12:06:14.210Z"
   }
 ]
