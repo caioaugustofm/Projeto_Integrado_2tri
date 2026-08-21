@@ -4,7 +4,7 @@ Sistema IoT desenvolvido para aquisição, classificação e visualização de m
 
 ## Vídeo de apresentação
 
-> Adicionar aqui o link do vídeo publicado no YouTube: **[LINK DO VÍDEO]**
+https://youtu.be/a3MO13_b3C0
 
 ## Integrantes
 
